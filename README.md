@@ -4,7 +4,7 @@ Redux는 여러분이 일관적으로 동작하고, 서로 다른 환경(서버,
 
 
 
-##Redux의 세가지 원칙
+## Redux의 세가지 원칙
 
 하나, Single Source of Truth
 어플리케이션의 state 를 위해 단 한개의 store 를 사용합니다.
